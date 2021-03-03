@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DriverBluetooth</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="bluetooth_spp">Bluetooth SPP</string>
+    <string name="text_mac">00:26:57:00:1f:02</string>
+    <string name="text_dialog_permission">Вам нужен доступ к bluetooth  для работы со сканером</string>
+</resources>
